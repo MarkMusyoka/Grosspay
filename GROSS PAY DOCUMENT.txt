@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main()
+{
+my var 
+var Basic salary,T.Allowance,H.Allowance,Tax;
+var Basic salary=("50,000")
+var T.allowance=("10.000")
+var H.allowance=("20,000")
+printf("enter three values")
+if (Basic salary>/=50,000)
+{
+house=20,000;
+transport=10,000;
+gross=(basic+house+transport)*30%
+x=gross*0.3;
+}
